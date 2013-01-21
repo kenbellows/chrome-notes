@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Notes",
+  "description": "Leave notes for yourself on pages across the web.",
+  "version": "0.0.1",
+  "permissions": [
+    "*://*/*",
+    "tabs",
+    "storage"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": [
+        "colorlib.js",
+        "init_notes.js",
+        "take_notes.js"
+      ],
+      "css": ["notes.css"]
+    }
+  ],
+  "background" :{
+    "persistent": false,
+    "page": "background.html"
+  }
+}

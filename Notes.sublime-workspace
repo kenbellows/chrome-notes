@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"note"
+			],
+			[
+				"x",
+				"xDiv"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"ge",
+				"getobj"
+			],
+			[
+				"url",
+				"urlnotes"
+			],
+			[
+				"set",
+				"setobj"
+			],
+			[
+				"al",
+				"alphaAllowed"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"st",
+				"storage"
+			],
+			[
+				"to",
+				"topleft"
+			],
+			[
+				"pa",
+				"pageY"
+			],
+			[
+				"pag",
+				"pageX"
+			],
+			[
+				"border",
+				"borderColor"
+			],
+			[
+				"note",
+				"noteDiv"
+			],
+			[
+				"color",
+				"color_parts"
+			],
+			[
+				"alph",
+				"alphaOld"
+			],
+			[
+				"col",
+				"color_parts"
+			],
+			[
+				"get",
+				"getColorObjFromString"
+			],
+			[
+				"no",
+				"noteDiv"
+			],
+			[
+				"load",
+				"loadPastNotes"
+			],
+			[
+				"arti",
+				"article_open"
+			],
+			[
+				"ver",
+				"vert_num_boxes_visible"
+			],
+			[
+				"art",
+				"article_open"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"arg",
+				"arg2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "notes.css",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		},
+		{
+			"file": "take_notes.js",
+			"settings":
+			{
+				"buffer_size": 2141,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "boxtest.html",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "colorlib.js",
+			"settings":
+			{
+				"buffer_size": 10610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "drawbox.js",
+			"settings":
+			{
+				"buffer_size": 2059,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "background.js",
+			"settings":
+			{
+				"buffer_size": 225,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "background.html",
+			"settings":
+			{
+				"buffer_size": 111,
+				"line_ending": "Windows",
+				"name": "<html>"
+			}
+		},
+		{
+			"file": "init_notes.js",
+			"settings":
+			{
+				"buffer_size": 6548,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syht",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"co",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"spy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 415.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Documents and Settings/ksbello/My Documents/Sublime Text 2/Data/Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+		"/C/Documents and Settings/ksbello/Desktop/chromeextensions/notes/load_notes.js",
+		"/C/Documents and Settings/ksbello/My Documents/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Documents and Settings/ksbello/Desktop/chromeextensions/notes/colortest.html",
+		"/C/Documents and Settings/ksbello/Desktop/chromeextensions/notes/popup.html",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/languageapp/formspace-project.js",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/HNDashboard/boxes.css",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/HNDashboard/hndashboard.html",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/HNDashboard/hndashboard.js",
+		"/C/Documents and Settings/ksbello/My Documents/Downloads/hndashboard.js",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/HNDashboard/boxes.js",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/languageapp/launchpage.html",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/languageapp/dropdown.css",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/languageapp/dropdown.js",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/languageapp/FormSpace.js",
+		"/C/cygwin/home/ksbello/python/itertest.py",
+		"/C/Documents and Settings/ksbello/Desktop/kenbellows.com/HNDashboard/readjsontest.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"console",
+			"console.log",
+			"//",
+			" //",
+			"Notes.current.element",
+			"save",
+			"store",
+			"Notes",
+			"notes",
+			"mpos",
+			"console.log",
+			"console",
+			"Notes.current.",
+			"window",
+			"this",
+			"notes",
+			"Notes",
+			"aplphaVal",
+			"chrome",
+			"x",
+			"width",
+			"y",
+			"width",
+			"x",
+			"rgb",
+			"color",
+			"	;\n    ",
+			"	;\n	",
+			";\n",
+			",\n",
+			"articleOpen",
+			"td.",
+			"td[\"",
+			"td[\"class\"]",
+			"->",
+			"$link",
+			"$title",
+			"$num",
+			"$td",
+			"$article",
+			"\n",
+			"zklx",
+			"zlxc",
+			"zxlc",
+			";';",
+			"zlxc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"* {\n                margin: 0px;\n                padding: 0px;\n            }\n            \n            body {\n                background-image: -webkit-linear-gradient(rgb(85,170,255) 0%, rgb(85,170,255) 475px, rgb(238,238,255) 550px, rgb(238,238,255) 100%);\n            }\n            \n            div {\n                position: absolute;\n            }\n            \n            #content {\n                top: 0px;\n                left: 0px;\n                width: 100%;\n                height: 100%;\n            }\n            \n            \n            #div_select_dropdown p, #div_select_active p {\n                vertical_align: middle;\n                line-height: 90px;\n                padding: 0px 4px;\n            }\n\n            #div_select {\n                margin: 0px auto;\n                padding: 0px;\n                width: 300px;\n                height: 100px;\n                position: relative;\n                top: 450px;\n                left: 0px;    \n                background-color: #DDD;\n                border: 1px solid #CCC;\n                border-radius: 4px;\n            }\n\n            #div_select_arrow {\n                position: absolute;\n                top: 0px;\n                right: 0px;\n                width: 30px;\n                height: 100%;\n                border-left: 1px solid #CCC;\n            }\n\n            #div_select_arrow_img {\n                position: absolute;\n                top: 15%;\n                left: 0px;\n                width: 100%;\n                height: 60%;\n            }\n\n            #div_select_active, .div_select_option {\n                position: absolute;\n                height: 90px;\n                width: 260px;\n                border: 1px solid #CCC;\n                margin: 4px 3px;\n                left: 0px;\n                font-family: sans-serif;\n                font-size: 3em;\n                color: #444;\n                vertical-align: middle;\n            }\n            #div_select_active {\n                background-color: #EEE;\n            }\n            .div_select_option {\n                background-color: #E0E0E0;\n            }\n\n            #div_select_dropdown {\n                position: absolute;\n                top: 90px;\n                width: 260px;\n            }\n\n            .div_select_hover {\n                background-color: #316AC5;\n                color: #EEE;\n            }",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "notes.css",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								495,
+								495
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "take_notes.js",
+					"settings":
+					{
+						"buffer_size": 2141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "boxtest.html",
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "colorlib.js",
+					"settings":
+					{
+						"buffer_size": 10610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4356,
+								4356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "drawbox.js",
+					"settings":
+					{
+						"buffer_size": 2059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1700,
+								1700
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "background.js",
+					"settings":
+					{
+						"buffer_size": 225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "background.html",
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<html>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "init_notes.js",
+					"settings":
+					{
+						"buffer_size": 6548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"d",
+				"/C/Documents and Settings/ksbello/Desktop/chromeextensions/notes/drawbox.js"
+			],
+			[
+				"in",
+				"/C/Documents and Settings/ksbello/Desktop/chromeextensions/notes/init_notes.js"
+			],
+			[
+				"biox",
+				"/C/Documents and Settings/ksbello/Desktop/chromeextensions/notes/boxtest.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
