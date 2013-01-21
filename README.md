@@ -82,7 +82,7 @@ or sharing notes, I would probably just stick with this guy, but I plan on addin
 * Allows exporting and importing of notes.
 * Notes can be "global", meaning they appear on every page.
 * Definitely aesthetically pleasing, while remaining simple enough to not provide distraction.
-* Optionally allows HTML input, including pictures (but not script tags)
+* Optionally allows HTML input, including pictures (but not script tags).  
 ##### Problems:
 * Does not allow syncing with the cloud, because the creator decided it was not worth the limited storage compared to Local Storage.
 * Still opaque, though being able to resize the note makes it easier to avoid hiding text.
