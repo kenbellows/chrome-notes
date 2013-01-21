@@ -18,4 +18,4 @@ it to get your regular page back.
 
 [Chrome menu]: <http://storage.googleapis.com/support-kms-prod/SNP_2696434_en_v1>
 [New tab]: <http://www.google.com/help/hc/images/chrome_95622a.gif>
-[CN icon]: <https://github.com/kenbellows/chrome-notes/blob/master/icon.png>
+[CN icon]: <https://raw.github.com/kenbellows/chrome-notes/master/icon.png>
