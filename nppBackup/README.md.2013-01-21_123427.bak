@@ -43,16 +43,7 @@ Here are a few ways I think this should be possible (\* requires the recipient t
 * Allow user profiles and user groups, where anyone added to the same group can see notes placed by others in the group. \*
 * Allow a server-mediated version of the page, perhaps, shareable on Facebook, Twitter, etc. through minified links that dynamically
   intercepts the page and adds the user's saved notes to it before presenting it to the user. This would be tough, but interesting.
-* Allow links to be exported and imported. \*
 
-
-## Use Cases
-
-* Sharing notes on articles for a team project.
-* A group investigating a subject with each other, for fun or education.
-* A "scavenger hunt" across the web within a user group.
-* Leaving "secret messages" and "Easter Eggs" for other members of a user group around the web.
-* Leaving notes for yourself on important thoughts you had while reading a text.
 
 
 ## Alternatives

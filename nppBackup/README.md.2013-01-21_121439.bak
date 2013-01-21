@@ -1,0 +1,55 @@
+# ![My face in pixels][icon] chrome-notes
+
+Chrome Notes (working title) is an extension written for the Google Chrome web browser.
+
+## Background
+
+I have often found, while reading articles, tutorials, etc., that I would like to add a note for myself,
+such as a link to a related resource, a reflection on or reaction to the text, etc. I tried
+searching for an existing "sticky-note" type extension, and found a few, but none had everything
+I wanted, and ultimately I think I build a better one.
+
+## Features
+
+
+
+## Alternatives
+
+Here are a few contenders I found and tried. Please note that this is not a comprehensive list, but it is quite 
+representative of the sampling that is out there.
+
+### [Sticky Notes]
+This extension is like several I found that allow adding notes to a page via a popup but do not allow 
+placing notes around the page.
+
+
+### [Self-stick Notes] 
+This extension is a very basic version of the sort of thing I plan to do with this extension.  
+##### Problems:
+* You can't edit a note once it is placed.
+* Notes are not resizeable.
+* Notes are opaque and block large sections of the page.
+
+
+### [Web Page Sticky Notes]
+Honestly, this extension is really great. It is the best one I've found already out there. If not for the lack of syncing 
+or sharing notes, I would probably just stick with this guy, but I plan on adding so much more.
+##### Features:
+* Places notes and retrieving them on page reload.
+* Notes can be resized and recolored.
+* Allows exporting and importing of notes.
+* Notes can be "global", meaning they appear on every page.
+* Definitely aesthetically pleasing, while remaining simple enough to not provide distraction.
+* Optionally allows HTML input, including pictures (but not script tags)
+##### Problems:
+* Does not allow syncing with the cloud, because the creator decided it was not worth the limited storage compared to Local Storage.
+* Still opaque, though being able to resize the note makes it easier to avoid hiding text.
+
+
+
+[Self-stick Notes]: <https://chrome.google.com/webstore/detail/self-stick-notes/hcdihnnnfbdeinkamogggghnmcfaebca/related>
+[Sticky Notes]: <https://chrome.google.com/webstore/detail/sticky-notes/olheifdopmpaahjgbobbhnnidpoigjoa/related>
+[Web Page Sticky Notes]: <https://chrome.google.com/webstore/detail/web-page-sticky-notes/alpjieidnmmkljnceakgpeajlngabnee/related>
+
+
+[icon]: <http://kenbellows.com/favicon2.ico> "My face in pixels"

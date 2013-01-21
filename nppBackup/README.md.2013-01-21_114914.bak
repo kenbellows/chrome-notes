@@ -1,0 +1,24 @@
+![My face in pixels][icon] chrome-notes
+===============================================
+
+Chrome Notes (working title) is an extension written for the Google Chrome web browser.
+
+I have found, while reading an article or tutorial, that I would like to add a note for myself,
+such as a link to a related resource, a reflection on or reaction to the text, etc. I tried
+searching for an existing "sticky-note" type extension, and found a few, but none had everything
+I wanted, and ultimately I think I build a better one.
+
+Here are a few I did find:
+
+[Simple Notes]
+
+[Self-stick Notes]
+
+[Sticky Notes]
+
+[Simple Notes]: <https://chrome.google.com/webstore/detail/simple-notes/bfojhefgpnccghohpddmflkacblipkka>
+[Self-stick Notes]: <https://chrome.google.com/webstore/detail/self-stick-notes/hcdihnnnfbdeinkamogggghnmcfaebca/related>
+[Sticky Notes]: <https://chrome.google.com/webstore/detail/sticky-notes/olheifdopmpaahjgbobbhnnidpoigjoa/related>
+
+
+[icon]: <http://kenbellows.com/favicon2.ico> "My face in pixels"
