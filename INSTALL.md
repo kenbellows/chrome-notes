@@ -11,10 +11,11 @@ Installing is pretty easy.
 4. Navigate through your file system to the location where you checked out the project. Select the "chrome-notes" 
    folder (assuming you haven't renamed it; if so, you know what to select).
    
-That's it! You should see a little pencil icon pop up next to the ![Chrome menu][] Chrome menu button. Click it and give it a try!
+That's it! You should see a little ![CN Icon][] pencil icon pop up next to the ![Chrome menu][] Chrome menu button. Click it and give it a try!
 
 NOTE: At this point, deleting notes IS NOT WORKING, so you'll have to uninstall the extension when you're done playing around with 
 it to get your regular page back.
 
-[Chrome menu]: <http://storage.googleapis.com/support-kms-prod/SNP_2696434_en_v1)>
-[new tab]: <http://www.google.com/help/hc/images/chrome_95622a.gif>
+[Chrome menu]: <http://storage.googleapis.com/support-kms-prod/SNP_2696434_en_v1>
+[New tab]: <http://www.google.com/help/hc/images/chrome_95622a.gif>
+[CN icon]: <https://github.com/kenbellows/chrome-notes/blob/master/icon.png>
